@@ -1,0 +1,142 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 23 Jul 2023 11:53:41 at https://getscreen.me/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://getscreen.me/ -O1 "C:\My Web Sites\Getscreen.me" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:53:44	Warning: 	Note: due to https://getscreen.me remote robots.txt rules, links beginning with these path will be forbidden: /dashboard/, /preview/, /demo/, /recovery/, /*terms-of-use/$, /*privacy-policy/$, /*cookie-policy/$ (see in the options to disable this)
+11:55:36	Error: 	"Not Found" (404) at link https://getscreen.me/Getscreen.me (from https://getscreen.me/)
+12:13:31	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/en/short-description.txt
+12:13:33	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/en/full-description.txt
+12:13:35	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/en/press-release.txt
+12:14:00	Error: 	"Not Found" (404) at link https://getscreen.me/en/Getscreen.me (from https://getscreen.me/en/)
+12:14:00	Error: 	"Not Found" (404) at link https://getscreen.me/es/Getscreen.me (from https://getscreen.me/es/)
+12:14:53	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/es/short-description.txt
+12:14:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/es/full-description.txt
+12:14:55	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/es/press-release.txt
+12:15:24	Error: 	"Not Found" (404) at link https://getscreen.me/pt/Getscreen.me (from https://getscreen.me/pt/)
+12:16:27	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/pt/short-description.txt
+12:16:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/pt/full-description.txt
+12:16:31	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/pt/press-release.txt
+12:16:52	Error: 	"Not Found" (404) at link https://getscreen.me/fr/Getscreen.me (from https://getscreen.me/fr/)
+12:17:45	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/fr/short-description.txt
+12:17:45	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/fr/full-description.txt
+12:17:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/fr/press-release.txt
+12:18:02	Error: 	"Not Found" (404) at link https://getscreen.me/de/Getscreen.me (from https://getscreen.me/de/)
+12:19:01	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/de/short-description.txt
+12:19:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/de/full-description.txt
+12:19:07	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/de/press-release.txt
+12:19:29	Error: 	"Not Found" (404) at link https://getscreen.me/zh/Getscreen.me (from https://getscreen.me/zh/)
+12:20:28	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/zh/short-description.txt
+12:20:29	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/zh/full-description.txt
+12:20:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://getscreen.me/res/promo/txt/description/zh/press-release.txt
+12:20:57	Error: 	"Not Found" (404) at link https://getscreen.me/c (from https://connect.facebook.net/en_US/fbevents.js)
+12:20:57	Error: 	"Not Found" (404) at link https://getscreen.me/b (from https://connect.facebook.net/en_US/fbevents.js)
+12:20:57	Error: 	"Not Found" (404) at link https://getscreen.me/POST (from https://connect.facebook.net/en_US/fbevents.js)
+12:20:57	Error: 	"Not Found" (404) at link https://getscreen.me/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+12:20:57	Error: 	"Not Found" (404) at link https://getscreen.me/a (from https://connect.facebook.net/en_US/fbevents.js)
+12:20:57	Error: 	"Not Found" (404) at link https://getscreen.me/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+12:30:22	Error: 	"Not Found" (404) at link https://getscreen.me/en/solutions/Getscreen.me (from https://getscreen.me/en/solutions/for-admin)
+12:33:15	Warning: 	Retry after error -4 (Incorrect length (344064 Bytes, 21174735 expected)) at link https://getscreen.me/res/promo/zip/promo-en.zip (from https://getscreen.me/en/promo/)
+12:33:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://getscreen.me/res/promo/zip/promo-en.zip
+12:33:55	Error: 	"Not Found" (404) at link https://getscreen.me/ru/Getscreen.me (from https://getscreen.me/ru/)
+12:34:41	Error: 	"Not Found" (404) at link https://getscreen.me/es/solutions/Getscreen.me (from https://getscreen.me/es/solutions/for-admin)
+12:34:44	Warning: 	Retry after error -4 (Incorrect length (409306 Bytes, 21174735 expected)) at link https://getscreen.me/res/promo/zip/promo-es.zip (from https://getscreen.me/es/promo/)
+12:34:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://getscreen.me/res/promo/zip/promo-es.zip
+12:35:29	Error: 	"Not Found" (404) at link https://getscreen.me/pt/solutions/Getscreen.me (from https://getscreen.me/pt/solutions/for-admin)
+12:36:30	Error: 	"Not Found" (404) at link https://getscreen.me/fr/solutions/Getscreen.me (from https://getscreen.me/fr/solutions/for-admin)
+12:36:33	Warning: 	Retry after error -4 (Incorrect length (294912 Bytes, 21174735 expected)) at link https://getscreen.me/res/promo/zip/promo-fr.zip (from https://getscreen.me/fr/promo/)
+12:36:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://getscreen.me/res/promo/zip/promo-fr.zip
+12:37:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 21174735 got 20971286): https://getscreen.me/res/promo/zip/promo-fr.zip
+12:37:32	Error: 	"Not Found" (404) at link https://getscreen.me/de/solutions/Getscreen.me (from https://getscreen.me/de/solutions/for-admin)
+12:38:18	Error: 	"Not Found" (404) at link https://getscreen.me/zh/solutions/Getscreen.me (from https://getscreen.me/zh/solutions/for-admin)
+12:38:21	Warning: 	Retry after error -4 (Incorrect length (364310 Bytes, 21174735 expected)) at link https://getscreen.me/res/promo/zip/promo-zh.zip (from https://getscreen.me/zh/promo/)
+12:38:23	Warning: 	Found for https://getscreen.me/en/download-dashboard/
+12:38:23	Warning: 	File has moved from https://getscreen.me/en/download-dashboard/ to /download/dashboard
+12:38:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://getscreen.me/res/promo/zip/promo-zh.zip
+12:38:24	Warning: 	Moved Permanently for https://getscreen.me/en/integrations/api/
+12:38:24	Warning: 	File has moved from https://getscreen.me/en/integrations/api/ to https://docs.getscreen.me/en/http-api/
+12:38:24	Warning: 	Moved Permanently for https://getscreen.me/en/integrations/sdk/
+12:38:24	Warning: 	File has moved from https://getscreen.me/en/integrations/sdk/ to https://docs.getscreen.me/en/http-api/
+12:38:24	Warning: 	Moved Permanently for https://getscreen.me/en/docs/agent/
+12:38:24	Warning: 	File has moved from https://getscreen.me/en/docs/agent/ to https://docs.getscreen.me/en/user-guides/agent/
+12:38:24	Warning: 	Moved Permanently for https://getscreen.me/en/docs/connection/
+12:38:24	Warning: 	File has moved from https://getscreen.me/en/docs/connection/ to https://docs.getscreen.me/en/user-guides/connection/
+12:38:24	Warning: 	Moved Permanently for https://getscreen.me/en/docs/dashboard/
+12:38:24	Warning: 	File has moved from https://getscreen.me/en/docs/dashboard/ to https://docs.getscreen.me/en/user-guides/account/
+12:38:24	Warning: 	Found for https://getscreen.me/es/download-dashboard/
+12:38:24	Warning: 	File has moved from https://getscreen.me/es/download-dashboard/ to /download/dashboard
+12:38:24	Warning: 	Found for https://getscreen.me/pt/download-dashboard/
+12:38:24	Warning: 	File has moved from https://getscreen.me/pt/download-dashboard/ to /download/dashboard
+12:38:25	Warning: 	Found for https://getscreen.me/fr/download-dashboard/
+12:38:25	Warning: 	File has moved from https://getscreen.me/fr/download-dashboard/ to /download/dashboard
+12:38:25	Warning: 	Found for https://getscreen.me/de/download-dashboard/
+12:38:25	Warning: 	File has moved from https://getscreen.me/de/download-dashboard/ to /download/dashboard
+12:38:25	Warning: 	Found for https://getscreen.me/zh/download-dashboard/
+12:38:25	Warning: 	File has moved from https://getscreen.me/zh/download-dashboard/ to /download/dashboard
+12:38:43	Warning: 	Retry after error -4 (Connect Error) at link https://getscreen.me/res/promo/i/download-text.svg (from https://getscreen.me/res/promo/css/main-ts1en1689882971.css)
+12:38:43	Warning: 	Retry after error -4 (Incorrect length (360448 Bytes, 21174735 expected)) at link https://getscreen.me/res/promo/zip/promo-en.zip (from https://getscreen.me/en/promo/)
+12:38:43	Error: 	"Not Found" (404) at link https://getscreen.me/en/alternative/Getscreen.me (from https://getscreen.me/en/alternative/teamviewer)
+12:38:43	Warning: 	Moved Permanently for https://getscreen.me/es/integrations/api/
+12:38:43	Warning: 	File has moved from https://getscreen.me/es/integrations/api/ to https://docs.getscreen.me/es/http-api/
+12:38:43	Warning: 	Moved Permanently for https://getscreen.me/es/integrations/sdk/
+12:38:43	Warning: 	File has moved from https://getscreen.me/es/integrations/sdk/ to https://docs.getscreen.me/es/http-api/
+12:38:43	Warning: 	Moved Permanently for https://getscreen.me/es/docs/agent/
+12:38:43	Warning: 	File has moved from https://getscreen.me/es/docs/agent/ to https://docs.getscreen.me/es/user-guides/agent/
+12:38:43	Warning: 	Moved Permanently for https://getscreen.me/es/docs/connection/
+12:38:43	Warning: 	File has moved from https://getscreen.me/es/docs/connection/ to https://docs.getscreen.me/es/user-guides/connection/
+12:38:43	Warning: 	Moved Permanently for https://getscreen.me/es/docs/dashboard/
+12:38:43	Warning: 	File has moved from https://getscreen.me/es/docs/dashboard/ to https://docs.getscreen.me/es/user-guides/account/
+12:38:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://getscreen.me/res/promo/zip/promo-en.zip
+12:38:51	Error: 	"Not Found" (404) at link https://getscreen.me/es/alternative/Getscreen.me (from https://getscreen.me/es/alternative/teamviewer)
+12:38:52	Warning: 	Moved Permanently for https://getscreen.me/pt/integrations/api/
+12:38:52	Warning: 	File has moved from https://getscreen.me/pt/integrations/api/ to https://docs.getscreen.me/pt/http-api/
+12:38:52	Warning: 	Moved Permanently for https://getscreen.me/pt/integrations/sdk/
+12:38:52	Warning: 	File has moved from https://getscreen.me/pt/integrations/sdk/ to https://docs.getscreen.me/pt/http-api/
+12:38:52	Warning: 	Moved Permanently for https://getscreen.me/pt/docs/agent/
+12:38:52	Warning: 	File has moved from https://getscreen.me/pt/docs/agent/ to https://docs.getscreen.me/pt/user-guides/agent/
+12:38:52	Warning: 	Moved Permanently for https://getscreen.me/pt/docs/connection/
+12:38:52	Warning: 	File has moved from https://getscreen.me/pt/docs/connection/ to https://docs.getscreen.me/pt/user-guides/connection/
+12:38:52	Warning: 	Moved Permanently for https://getscreen.me/pt/docs/dashboard/
+12:38:52	Warning: 	File has moved from https://getscreen.me/pt/docs/dashboard/ to https://docs.getscreen.me/pt/user-guides/account/
+12:39:00	Error: 	"Not Found" (404) at link https://getscreen.me/pt/alternative/Getscreen.me (from https://getscreen.me/pt/alternative/teamviewer)
+12:39:00	Warning: 	Moved Permanently for https://getscreen.me/fr/integrations/api/
+12:39:00	Warning: 	File has moved from https://getscreen.me/fr/integrations/api/ to https://docs.getscreen.me/fr/http-api/
+12:39:00	Warning: 	Moved Permanently for https://getscreen.me/fr/integrations/sdk/
+12:39:00	Warning: 	File has moved from https://getscreen.me/fr/integrations/sdk/ to https://docs.getscreen.me/fr/http-api/
+12:39:00	Warning: 	Moved Permanently for https://getscreen.me/fr/docs/agent/
+12:39:00	Warning: 	File has moved from https://getscreen.me/fr/docs/agent/ to https://docs.getscreen.me/fr/user-guides/agent/
+12:39:00	Warning: 	Moved Permanently for https://getscreen.me/fr/docs/connection/
+12:39:00	Warning: 	File has moved from https://getscreen.me/fr/docs/connection/ to https://docs.getscreen.me/fr/user-guides/connection/
+12:39:00	Warning: 	Moved Permanently for https://getscreen.me/fr/docs/dashboard/
+12:39:00	Warning: 	File has moved from https://getscreen.me/fr/docs/dashboard/ to https://docs.getscreen.me/fr/user-guides/account/
+12:39:05	Warning: 	Retry after error -4 (Incorrect length (20971286 Bytes, 21174735 expected)) at link https://getscreen.me/res/promo/zip/promo-fr.zip (from https://getscreen.me/fr/promo/)
+12:39:05	Error: 	"Not Found" (404) at link https://getscreen.me/fr/alternative/Getscreen.me (from https://getscreen.me/fr/alternative/teamviewer)
+12:39:05	Warning: 	Moved Permanently for https://getscreen.me/de/integrations/api/
+12:39:05	Warning: 	File has moved from https://getscreen.me/de/integrations/api/ to https://docs.getscreen.me/de/http-api/
+12:39:06	Warning: 	Moved Permanently for https://getscreen.me/de/integrations/sdk/
+12:39:06	Warning: 	File has moved from https://getscreen.me/de/integrations/sdk/ to https://docs.getscreen.me/de/http-api/
+12:39:06	Warning: 	Moved Permanently for https://getscreen.me/de/docs/agent/
+12:39:06	Warning: 	File has moved from https://getscreen.me/de/docs/agent/ to https://docs.getscreen.me/de/user-guides/agent/
+12:39:06	Warning: 	Moved Permanently for https://getscreen.me/de/docs/connection/
+12:39:06	Warning: 	File has moved from https://getscreen.me/de/docs/connection/ to https://docs.getscreen.me/de/user-guides/connection/
+12:39:06	Warning: 	Moved Permanently for https://getscreen.me/de/docs/dashboard/
+12:39:06	Warning: 	File has moved from https://getscreen.me/de/docs/dashboard/ to https://docs.getscreen.me/de/user-guides/account/
+12:39:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://getscreen.me/res/promo/zip/promo-fr.zip
+12:39:10	Error: 	"Not Found" (404) at link https://getscreen.me/de/alternative/Getscreen.me (from https://getscreen.me/de/alternative/teamviewer)
+12:39:11	Warning: 	Moved Permanently for https://getscreen.me/zh/integrations/api/
+12:39:11	Warning: 	File has moved from https://getscreen.me/zh/integrations/api/ to https://docs.getscreen.me/zh/http-api/
+12:39:11	Warning: 	Moved Permanently for https://getscreen.me/zh/integrations/sdk/
+12:39:11	Warning: 	File has moved from https://getscreen.me/zh/integrations/sdk/ to https://docs.getscreen.me/zh/http-api/
+12:39:11	Warning: 	Moved Permanently for https://getscreen.me/zh/docs/agent/
+12:39:11	Warning: 	File has moved from https://getscreen.me/zh/docs/agent/ to https://docs.getscreen.me/zh/user-guides/agent/
+12:39:11	Warning: 	Moved Permanently for https://getscreen.me/zh/docs/connection/
+12:39:11	Warning: 	File has moved from https://getscreen.me/zh/docs/connection/ to https://docs.getscreen.me/zh/user-guides/connection/
+12:39:11	Warning: 	Moved Permanently for https://getscreen.me/zh/docs/dashboard/
+12:39:11	Warning: 	File has moved from https://getscreen.me/zh/docs/dashboard/ to https://docs.getscreen.me/zh/user-guides/account/
+12:39:18	Error: 	"Not Found" (404) at link https://getscreen.me/zh/alternative/Getscreen.me (from https://getscreen.me/zh/alternative/teamviewer)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 minutes 40 seconds : 1321 links scanned, 1251 files written (255857136 bytes overall) [254828334 bytes received at 93003 bytes/sec], 32831544 bytes transferred using HTTP compression in 845 files, ratio 25%
+(26 errors, 105 warnings, 0 messages)

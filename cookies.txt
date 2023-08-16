@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+getscreen.me	TRUE	/	FALSE	1999999999	llu	jps07oNNaJLHwiF2E31EgDfHjJRT1yXDy44BeTLggoci9mTGTiQta5DCrBi3gSxA30e4f28d9da498d65d12eed48843278d1690109626
+getscreen.me	TRUE	/	FALSE	1999999999	SameSite	None
+getscreen.me	TRUE	/	FALSE	1999999999	reff	http://connect.facebook.net/en_US/fbevents.js
+getscreen.me	TRUE	/	FALSE	1999999999	refl	http://connect.facebook.net/en_US/fbevents.js
+getscreen.me	TRUE	/	FALSE	1999999999	lang	zh
+
